@@ -421,14 +421,14 @@
 
 [[projects]]
   branch = "master"
-  digest = "1:9928e3f53e8ae5e280f275d0f39cdfd948169d91e8bdd23e2c6e07715321c858"
+  digest = "1:adecb5aff623552df5f9bc887d23fe3bde6dfb39d80d190d85ecbe095fa823ab"
   name = "github.com/openshift/cluster-version-operator"
   packages = [
     "lib/resourceapply",
     "lib/resourcemerge",
   ]
   pruneopts = "NUT"
-  revision = "08cac1c02538c279d9aac094d42cf8788dc4e45c"
+  revision = "817a2d5f256526bfab7368a978655c9cc06334ad"
 
 [[projects]]
   branch = "master"
